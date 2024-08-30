@@ -35,6 +35,14 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/AGButerin
+  - url: https://www.elibrary.ru/defaultx.asp
+  - url: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=ZLurRNAAAAAJ
+  - url: https://www.researchgate.net/signup.SignUpRequestVerificationSent.html?email=1132230800%40pfur.com&dbw=true
+  - url: https://independent.academia.edu/ArseniyButerin
+  - url: https://arxiv.org/user/register/step2
+  - url: https://orcid.org/my-orcid?orcid=0009-0000-1336-0521&justRegistered=true\
+  - url: https://www.mendeley.com/search/
+    
 
 interests:
   - Reading books

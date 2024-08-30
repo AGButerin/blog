@@ -89,6 +89,14 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
+awards:
+  - title: A translator at international competitions
+  - title: First place at the European Championship
+  - title: Third place at the World Championship
+  - title: 3 times the winner of the Russian cup
+  - title: Twice became the champion of Russia
+    
+
 ---
 
 ## About Me

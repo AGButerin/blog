@@ -1,6 +1,6 @@
 ---
-title: 'Projects'
-date: 2024-05-19
+title: 'Проекты'
+date: 2024-08-27
 type: landing
 
 design:
@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      text: Мне нравится создавать вещи. Вот подборка проектов, над которыми я работал на протяжении многих лет.
       filters:
         folders:
           - project

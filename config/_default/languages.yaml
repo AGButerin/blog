@@ -5,18 +5,42 @@
 # Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en  # Убедитесь, что весь английский контент находится в этой папке
+  title: Arseny Buterin
+  params:
+    description: Blog
+  menu:
+    main:
+      - name: Bio
+        url: '/en/'
+        weight: 1
+      - name: News
+        url: '/post/'
+        weight: 2
+      - name: Experience
+        url: '/experience/'
+        weight: 3
+      - name: Project
+        url: '/project/'
+        weight: 4
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+ru:
+  languageCode: ru
+  contentDir: content/ru  # Контент на русском языке будет в этой папке
+  title: Арсений Бутерин
+  params:
+    description: Блог
+  menu:
+    main:
+      - name: Главная
+        url: '/ru/'
+        weight: 1
+      - name: Новости
+        url: '/post/'
+        weight: 2
+      - name: Опыт
+        url: '/experience/'
+        weight: 3
+      - name: Проекты
+        url: '/project/'
+        weight: 4
